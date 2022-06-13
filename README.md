@@ -1,4 +1,5 @@
-![frame_generic_light](https://user-images.githubusercontent.com/38231334/173252465-90f48796-bb44-4ef8-be6e-409a79fbc8fb.png)
+![frame_generic_light](https://user-images.githubusercontent.com/38231334/173259122-6b534d50-f7f5-4764-a4cd-6aadba244568.png)
+
 
 ### Links
 
