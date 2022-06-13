@@ -2,7 +2,6 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 - Live Site URL: [Shortly Project](https://luanasa.github.io/shortly-landing-page/)
 
 ## My process
